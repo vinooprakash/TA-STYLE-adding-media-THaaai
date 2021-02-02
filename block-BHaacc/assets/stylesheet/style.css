@@ -271,14 +271,13 @@ h1 {
 
 .articles .col-1-2 {
   width: 45%;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.5);
 }
 
 .articles .flex {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 10px;
+  margin: 15px;
 }
 
 .articles img {
@@ -287,6 +286,7 @@ h1 {
 
 .articles-left {
   width: 40%;
+  font-size: 0;;
 }
 
 .articles-right {
